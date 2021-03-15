@@ -2,6 +2,9 @@
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
+## GitHub Pages
+https://betoggh51.github.io/Junior---LoopStudios-Landing-Page/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -36,9 +39,6 @@ If you'd like the design files (we provide Sketch & Figma versions) in order to 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
-
-## GitHub Pages
-https://betoggh51.github.io/Junior---LoopStudios-Landing-Page/
 
 ## Giving feedback
 
